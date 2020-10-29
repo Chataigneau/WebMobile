@@ -1,16 +1,47 @@
 .navBar{
     align-content: center;
     align-self: center;
+    text-align: center;
     align-items: center;
     background-color: cornflowerblue;
 }
 
-.photo{
-    align-content: center;
-
+.A_propos{
+    text-align: center;
 }
+
+.A_propos h1{
+    font-size: xx-large;
+}
+
+.A_proposText h2{
+    border: black;
+    font-size: large;
+}
+
 
 .photo img{
     width: 150px;
     height: 150px;
+}
+
+.Experiences{
+    text-align: center;
+}
+
+.Competences{
+    text-align: center;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    position: relative;
+    text-align: center;
+}
+
+.footer div{
+    align-content: center;
+    color: cornsilk;
+    font-style: italic;
+    text-align: center;
 }
