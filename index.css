@@ -1,0 +1,16 @@
+.navBar{
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.photo{
+    align-content: center;
+
+}
+
+.photo img{
+    width: 150px;
+    height: 150px;
+}
