@@ -2,6 +2,7 @@
     align-content: center;
     align-self: center;
     text-align: center;
+    height: 50px;
     align-items: center;
     background-color: cornflowerblue;
 }
@@ -17,6 +18,17 @@
 .A_proposText h2{
     border: black;
     font-size: large;
+}
+
+.A_propos_social{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px auto 0px auto;
+}
+
+.A_propos_social img{
+    width: 30px;
+    height: 30px;
 }
 
 
